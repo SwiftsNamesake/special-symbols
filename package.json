@@ -1,0 +1,19 @@
+{
+  "name": "special-symbols",
+  "main": "./lib/special-symbols",
+  "version": "0.0.0",
+  "description": "If you like π, you'll love this plugin.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "special-symbols:toggle"
+  },
+  "repository": "https://github.com/atom/special-symbols",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
