@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "special-symbols:toggle"
   },
-  "repository": "https://github.com/atom/special-symbols",
+  "repository": "https://github.com/SwiftsNamesake/special-symbols.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
