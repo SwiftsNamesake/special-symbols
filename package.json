@@ -1,10 +1,9 @@
 {
   "name": "special-symbols",
   "main": "./lib/special-symbols",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "If you like π, you'll love this plugin.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "special-symbols:toggle"
   },
